@@ -21,8 +21,30 @@ print("min_degree: " + str(s_box.min_degree()))
 print("max_degree: " + str(s_box.max_degree()))
 print("linearity: " + str(s_box.linearity()))
 print("nonlinearity: " + str(s_box.nonlinearity()))
-print("differential_uniformity:")
-︡ca20b9ea-d7db-4d4e-babb-9dca44b94235︡{"stdout":"boomerang_uniformity: 16\n"}︡{"stdout":"fixed_points: [15]\n"}︡{"stdout":"has_linear_structure: True\n"}︡{"stdout":"is_almost_bent: False\n"}︡{"stdout":"is_apn: False\n"}︡{"stdout":"differential_uniformity: 4\n"}︡{"stdout":"maximal_difference_probability: 0.25\n"}︡{"stdout":"maximal_difference_probability_absolute: 4\n"}︡{"stdout":"maximal_linear_bias_absolute: 4\n"}︡{"stdout":"maximal_linear_bias_relative: 0.25\n"}︡{"stdout":"is_balanced: True\n"}︡{"stdout":"is_involution: False\n"}︡{"stdout":"is_permutation: True\n"}︡{"stdout":"linear_branch_number: 2\n"}︡{"stdout":"differential_branch_number: 2\n"}︡{"stdout":"min_degree: 2"}︡{"stdout":"\n"}︡{"stdout":"max_degree: 3\n"}︡{"stdout":"linearity: 8\n"}︡{"stdout":"nonlinearity: 4\n"}︡{"stdout":"differential_uniformity:\n"}︡{"stdout":"hello\n"}︡{"done":true}
+︡ca20b9ea-d7db-4d4e-babb-9dca44b94235︡
+#OUTPUT
+
+{"stdout":"boomerang_uniformity: 16\n"}︡
+{"stdout":"fixed_points: [15]\n"}︡
+{"stdout":"has_linear_structure: True\n"}︡
+{"stdout":"is_almost_bent: False\n"}︡
+{"stdout":"is_apn: False\n"}︡
+{"stdout":"differential_uniformity: 4\n"}︡
+{"stdout":"maximal_difference_probability: 0.25\n"}︡
+{"stdout":"maximal_difference_probability_absolute: 4\n"}︡
+{"stdout":"maximal_linear_bias_absolute: 4\n"}︡
+{"stdout":"maximal_linear_bias_relative: 0.25\n"}︡
+{"stdout":"is_balanced: True\n"}︡
+{"stdout":"is_involution: False\n"}︡
+{"stdout":"is_permutation: True\n"}︡
+{"stdout":"linear_branch_number: 2\n"}︡
+{"stdout":"differential_branch_number: 2\n"}︡
+{"stdout":"min_degree: 2"}︡
+{"stdout":"max_degree: 3\n"}︡
+{"stdout":"linearity: 8\n"}︡
+{"stdout":"nonlinearity: 4\n"}︡
+{"done":true}
+
 ︠a4ff5702-a52f-4e38-bd84-bdda6579d48c︠
 
 ︡5059e953-e89d-47f0-942d-43477cfd14eb︡
